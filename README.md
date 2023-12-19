@@ -113,7 +113,7 @@ With the completion of the funding stage, members are now equipped with their vo
 | | OpaVote | OSMF-Voting |
 | --- | --- | --- |
 | Open Source | ❌ proprietary | ✅ free and open source |
-| Privacy | ❌ "trust us", google-analytics tracking on the voting page, external dependencies | ✅ no external dependencies, no tracking |
+| Privacy | ❌ "trust us", google-analytics tracking on the voting page, email delivery via sendgrid, external dependencies | ✅ no external dependencies, no tracking |
 | Security Guarantees | ❌ "trust us" | ✅ verifiable, mathematically proven |
 | "Artificial Members" Attack | ❌ possible | 🟨 partially mitigated |
 | Voter Eligibility | ❓ trust OpaVote and OSMF | 🟨 trust OSMF |
