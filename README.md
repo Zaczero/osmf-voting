@@ -125,6 +125,6 @@ With the completion of the funding stage, members are now equipped with their vo
 
 ## License
 
-[osmf-voting](https://github.com/Zaczero/osmf-voting) by [Kamil Monicz (Zaczero)](https://monicz.dev) is licensed under [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
+[OSMF-Voting](https://github.com/Zaczero/osmf-voting) by [Kamil Monicz (Zaczero)](https://monicz.dev) is licensed under [CC BY-NC-SA 4.0](http://creativecommons.org/licenses/by-nc-sa/4.0/)
 
 ![CC](https://mirrors.creativecommons.org/presskit/icons/cc.svg) ![BY](https://mirrors.creativecommons.org/presskit/icons/by.svg) ![NC](https://mirrors.creativecommons.org/presskit/icons/nc.svg) ![SA](https://mirrors.creativecommons.org/presskit/icons/sa.svg)
